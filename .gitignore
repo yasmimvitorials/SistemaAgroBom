@@ -1,0 +1,17 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Java
+*.class
+
+# Servidores locais
+Servers/
+
+# Banco H2
+*.mv.db
+*.trace.db
+
+# Logs
+*.log
